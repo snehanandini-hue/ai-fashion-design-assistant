@@ -22,12 +22,13 @@ python ai-fashion-design-assistant.py
 ## Project Structure
 
 AI_Fashion_Design_Generator/
-│
+
 ├── ai-fashion-design-assistant.py    
 ├── requirements.txt             
 ├── README.md                    
 ├── Output1                      
 ├── Output2
+
 └── Output3
 
 ## Limitations
